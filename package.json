@@ -1,0 +1,15 @@
+{
+  "name": "tiedon-eheys-ja-transaktiot",
+  "version": "1.0.0",
+  "description": "The fourth task on the course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Johannes Palvanen",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite": "^4.0.19",
+    "sqlite3": "^5.0.2"
+  }
+}
