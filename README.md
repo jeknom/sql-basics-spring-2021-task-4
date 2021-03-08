@@ -2,6 +2,8 @@
 
 This repo contains the fourth task for the course. The goal was to learn what happens when data is written by multiple users at the same time.
 
+Source of course material: https://tikape.mooc.fi/kevat-2021/
+
 ## Instructions for the assignment in finnish:
 
 ```
